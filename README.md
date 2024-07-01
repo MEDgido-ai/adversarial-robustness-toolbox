@@ -64,7 +64,7 @@ generation, certification, etc.).
 
 The library is under continuous development. Feedback, bug reports and contributions are very welcome!
 
-# Running on Google Colab
+## Running on Google Colab
 Run on [Google-Colab](https://colab.research.google.com/drive/1vhyx2HlXHolEgDZ8DdzyqyVKZ6N5sBNd?usp=sharing)
 
 # Acknowledgment
