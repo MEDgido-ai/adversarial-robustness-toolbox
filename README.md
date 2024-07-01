@@ -65,7 +65,7 @@ generation, certification, etc.).
 The library is under continuous development. Feedback, bug reports and contributions are very welcome!
 
 # Running on Google Colab
-[Google Colab]: https://colab.research.google.com/drive/1vhyx2HlXHolEgDZ8DdzyqyVKZ6N5sBNd?usp=sharing
+Run on ![Google-Colab](https://colab.research.google.com/drive/1vhyx2HlXHolEgDZ8DdzyqyVKZ6N5sBNd?usp=sharing)
 
 # Acknowledgment
 This material is partially based upon work supported by the Defense Advanced Research Projects Agency (DARPA) under
